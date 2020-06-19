@@ -1,0 +1,16 @@
+# Common
+.DS_Store
+
+# Xcode
+*.xcworkspace
+xcuserdata/
+
+# Blender
+*.blend1
+
+# Unreal Engine
+Source/Spacewing/Binaries
+Source/Spacewing/Intermediate
+Source/Spacewing/Saved
+Source/Spacewing/Build
+
